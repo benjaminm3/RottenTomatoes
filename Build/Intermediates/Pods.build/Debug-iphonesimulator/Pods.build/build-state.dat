@@ -1,0 +1,103 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EB08000000000000003B4
+t1394520192
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB085000000000000019E
+t1394520197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+t1395024441
+s3564
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods.LinkFileList
+c000000005325E3480000000000000094
+t1394991944
+s148
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+c00000000532662380000000000172580
+t1395024440
+s1516928
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods-M13ProgressSuite.a
+c00000000532660700000000000165360
+t1395023984
+s1463136
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods-MBProgressHUD.a
+c00000000532662390000000000031DD0
+t1395024441
+s204240
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods-ProgressHUD.a
+c0000000053265A5D0000000000018398
+t1395022429
+s99224
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a
+t1395024441
+s1724792
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-dummy.m
+c00000000532661C40000000000000070
+t1395024324
+s112
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescc79326792d8b841^5bb2326792d8b841^---0#1#1#--18"Check dependencies36"4B65629D-95F3-4122-A7BE-6F673C840882-
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717241.182901
+e416717241.204902
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-dummy.m240"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0beb2eb999d6b841^4f7534b999d6b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-dummy.m0000000000000000^4008"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/x86_64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers/AFNetworking -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods/Headers/MBProgressHUD -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-dummy.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o36"B8D03C1B-A4B5-4BFB-9208-37FA638A8E09-
+b91F652EB-4590-4D16-8B52-DA5E3E7A8302
+
+CLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a normal x86_64
+s416717241.205414
+e416717241.247846
+r1
+xLibtool
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a normal x86_64118"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a normal x86_6449a134b999d6b841^9b743fb999d6b841^---0#0#1#--1088"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a normal x86_64    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -filelist /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-MBProgressHUD -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a36"3113F306-9DF6-4C7A-8B98-77BACC9D6676-
+b91F652EB-4590-4D16-8B52-DA5E3E7A8302
+

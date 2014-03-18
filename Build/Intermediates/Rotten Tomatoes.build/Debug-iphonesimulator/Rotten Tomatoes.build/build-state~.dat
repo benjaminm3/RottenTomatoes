@@ -1,0 +1,289 @@
+TRotten Tomatoes
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh
+cProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.pch Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Cast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/MovieListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Movie.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EB08000000000000003B4
+t1394520192
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB085000000000000019E
+t1394520197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531EB0860000000000446820
+t1394520198
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EB087000000000088D8C0
+t1394520199
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EB08D0000000001F1DE10
+t1394520205
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten Tomatoes-Prefix.pch.pch
+t1394991835
+s122936
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/AppDelegate.o
+t1394991835
+s65724
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Cast.o
+t1394991835
+s11856
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Movie.o
+t1394991835
+s29536
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/MovieListViewController.o
+t1394991835
+s65392
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Rotten Tomatoes.LinkFileList
+c000000005325E2DB0000000000000345
+t1394991835
+s837
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/main.o
+t1394991835
+s3580
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh
+c000000005325E2DB0000000000000103
+t1394991835
+s259
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/Rotten Tomatoes.app/Rotten Tomatoes
+t2
+s0
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/libPods.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.m
+c00000000532147CD00000000000009E6
+t1394689997
+s2534
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.m
+c00000000532400F100000000000002B6
+t1394868465
+s694
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.m
+c00000000532404B200000000000005F3
+t1394869426
+s1523
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.m
+c000000005325DC4C0000000000000886
+t1394990156
+s2182
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Rotten Tomatoes-Prefix.pch
+c00000000532142C90000000000000158
+t1394688713
+s344
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/main.m
+c00000000532142C9000000000000015F
+t1394688713
+s351
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/AppDelegate.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Cast.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Movie.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/MovieListViewController.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies26fea05b1ad6b841^d427a95b1ad6b841^---0#1#1#--18"Check dependencies36"260377C4-9FAC-4606-8CBD-BDCEF941D52B-
+
+CCompileAssetCatalog /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.705094
+e416684635.773519
+r1
+xCompileC
+xBuild/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/AppDelegate.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.m229"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.o Rotten\ Tomatoes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7896b45b1ad6b841^ea06c65b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/AppDelegate.m0000000000000000^4273"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.o Rotten\ Tomatoes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/AppDelegate.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/AppDelegate.o36"1D6E9DF7-383D-4D2B-9E9C-001498C318BE-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Cast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.704808
+e416684635.743176
+r1
+xCompileC
+xBuild/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Cast.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.m215"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.o Rotten\ Tomatoes/Cast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0283b45b1ad6b841^5f41be5b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/Cast.m0000000000000000^4231"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.o Rotten\ Tomatoes/Cast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Cast.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Cast.o36"660167EB-1BF4-4E77-A7E6-F22FFEFED0F4-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Movie.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.705583
+e416684635.754110
+r1
+xCompileC
+xBuild/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Movie.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.m217"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.o Rotten\ Tomatoes/Movie.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7bab45b1ad6b841^ed0ec15b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/Movie.m0000000000000000^4237"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.o Rotten\ Tomatoes/Movie.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Movie.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Movie.o36"3FC00B90-652D-4F1A-A899-73DD4E276A4B-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/MovieListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.705390
+e416684635.772617
+r1
+xCompileC
+xBuild/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/MovieListViewController.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Movie.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Cast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/MovieListViewController.m253"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.o Rotten\ Tomatoes/MovieListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08acb45b1ad6b841^79cbc55b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/MovieListViewController.m0000000000000000^4345"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.o Rotten\ Tomatoes/MovieListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/MovieListViewController.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/MovieListViewController.o36"D3D96431-D571-4B95-A80C-510CF4A9DC13-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CCompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.705974
+e416684635.735811
+r1
+xCompileC
+xBuild/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/main.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/main.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/main.m215"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.o Rotten\ Tomatoes/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80d2b45b1ad6b841^f65ebc5b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/main.m0000000000000000^4231"CompileC Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.o Rotten\ Tomatoes/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/main.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/main.o36"199D8259-B7FF-4AAC-8C97-7D923BF8734D-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CCompileXIB /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/MovieListViewController.xib
+r0
+
+CCopyStringsFile /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/en.lproj/InfoPlist.strings Rotten\ Tomatoes/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app.dSYM /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes
+r0
+
+CLd /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes normal i386
+s416684635.774164
+e416684635.782225
+r0
+xLd
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/Rotten Tomatoes.app/Rotten Tomatoes
+xnormal
+xi386
+d/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Objects-normal/i386/Rotten Tomatoes.LinkFileList
+old: library not found for -lPods
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphonesimulator/Rotten Tomatoes.app/Rotten Tomatoes89"Ld Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes normal i386863cc65b1ad6b841^d53fc85b1ad6b841^-113"ld: library not found for -lPodsclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@28"Library not found for -lPods-416684635#0#33#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-416684635#33#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1664"Ld Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes normal i386    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -filelist /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Rotten\ Tomatoes.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Objects-normal/i386/Rotten\ Tomatoes_dependency_info.dat -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Rotten\ Tomatoes36"37143772-F80E-4147-8F34-DF826BE6DB2D-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh
+s416684635.661718
+e416684635.671563
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Rotten Tomatoes.build/Debug-iphonesimulator/Rotten Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'170"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh55a5a95b1ad6b841^ccecab5b1ad6b841^---0#0#1#--421"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    /bin/sh -c \"/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-6CD4775E9DD94214AD41AB59.sh\"36"A9DF6026-1929-4C32-9CB4-2622AAE1A286-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Script-FC565B0F3B3B411FBDE19E5A.sh
+r0
+
+CProcessInfoPlistFile /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app/Info.plist /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Rotten\ Tomatoes-Info.plist
+r0
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.pch Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684635.672096
+e416684635.704263
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten Tomatoes-Prefix.pch.pch
+xRotten Tomatoes/Rotten Tomatoes-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Rotten Tomatoes/Rotten Tomatoes-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile Rotten Tomatoes/Rotten Tomatoes-Prefix.pch247"ProcessPCH Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.pch Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b1eac5b1ad6b841^e44bb45b1ad6b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Rotten%20Tomatoes/Rotten%20Tomatoes-Prefix.pch0000000000000000^4135"ProcessPCH Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.pch Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/Rotten\ Tomatoes-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Rotten\ Tomatoes.build/Debug-iphonesimulator/Rotten\ Tomatoes.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -isystem/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cmehmluatljzdwefcrhbtpoubzsn/Rotten\ Tomatoes-Prefix.pch.pch36"724C31CE-5F0B-4E3E-B710-3FC4E25F5026-
+bFAB6A304-88B8-4248-A0C0-98ACDBBE2BA3
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-accucsjzskfmstcbwduxovcjzbmo/Index/PrecompiledHeaders/Rotten\ Tomatoes-Prefix-cyklbsisxwhtthehvhxuynxqmbrp_ast/Rotten\ Tomatoes-Prefix.pch.pch Rotten\ Tomatoes/Rotten\ Tomatoes-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphonesimulator/Rotten\ Tomatoes.app
+r0
+

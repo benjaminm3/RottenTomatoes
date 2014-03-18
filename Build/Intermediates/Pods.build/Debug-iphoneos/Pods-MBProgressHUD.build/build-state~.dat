@@ -1,0 +1,170 @@
+TPods-MBProgressHUD
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a normal arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531EB074000000000000036B
+t1394520180
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB074000000000000019E
+t1394520180
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o
+t1395024457
+s194604
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o
+t1395024457
+s4292
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD.LinkFileList
+c00000000532662480000000000000145
+t1395024456
+s325
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch
+t1395024457
+s120944
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch
+t1395024457
+s115768
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a
+t2
+s0
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m
+c00000000532661C30000000000007F4E
+t1395024323
+s32590
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-dummy.m
+c00000000532661C3000000000000008C
+t1395024323
+s140
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch
+c00000000532661C3000000000000004D
+t1395024323
+s77
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies62a2edc899d6b841^1e6ef3c899d6b841^---0#1#1#--18"Check dependencies36"D9603772-50D9-447C-B4E2-0E9AC3E62F5A-
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.676751
+e416717257.814659
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/MBProgressHUD/MBProgressHUD.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m265"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o MBProgressHUD/MBProgressHUD.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a56adc999d6b841^f38dd0c999d6b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m0000000000000000^4154"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o MBProgressHUD/MBProgressHUD.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/MBProgressHUD/MBProgressHUD.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/MBProgressHUD.o36"22E715DC-E37B-4C6A-B851-773E7BBC379B-
+b418F2672-00EA-4A28-A100-F6447C49E00F
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.676974
+e416717257.701793
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-dummy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-dummy.m273"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o Pods-MBProgressHUD-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c5dadc999d6b841^26aab3c999d6b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-MBProgressHUD-dummy.m0000000000000000^4158"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o Pods-MBProgressHUD-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-dummy.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD-dummy.o36"84185C5D-E6D9-4737-BA26-D7642B1737DF-
+b418F2672-00EA-4A28-A100-F6447C49E00F
+
+CLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a normal arm64
+s416717257.815234
+e416717257.819569
+r1
+xLibtool
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a
+xnormal
+xarm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a normal arm64124"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a normal arm64e4bfd0c999d6b841^74d0d1c999d6b841^---0#0#1#--1075"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a normal arm64    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -filelist /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Objects-normal/arm64/Pods-MBProgressHUD.LinkFileList -framework CoreGraphics -framework Foundation -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-MBProgressHUD.a36"F533DA0F-8F70-4DFC-AD9B-ACAA4A0C392A-
+b418F2672-00EA-4A28-A100-F6447C49E00F
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717256.951663
+e416717257.062933
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch
+xPods-MBProgressHUD-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-MBProgressHUD-prefix.pch287"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler20b7f3c899d6b841^212310c999d6b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch0000000000000000^4022"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-cxuygovnjakegahfhhdsthgjddhs/Pods-MBProgressHUD-prefix.pch.pch36"41A00B99-6678-4EB4-84FC-9FCC8D50E07B-
+b418F2672-00EA-4A28-A100-F6447C49E00F
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717256.951416
+e416717257.676108
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch
+xPods-MBProgressHUD-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-MBProgressHUD-prefix.pch287"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler23a3f3c899d6b841^2f17adc999d6b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch0000000000000000^4056"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/Pods-MBProgressHUD-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-MBProgressHUD.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-MBProgressHUD-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gzrtwtomjgtjvqflsbzsrlieoyhd/Pods-MBProgressHUD-prefix.pch.pch36"392F5F2D-44FA-49ED-8ABC-0414C18C59C5-
+b418F2672-00EA-4A28-A100-F6447C49E00F
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-MBProgressHUD-prefix-auirzvaurjdetjfzhsgpkrszekge_ast/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-MBProgressHUD-prefix-gmbrytugxtdzkjcexopsvlxysqgh_ast/Pods-MBProgressHUD-prefix.pch.pch Pods-MBProgressHUD-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

@@ -1,0 +1,898 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531EB074000000000000036B
+t1394520180
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB074000000000000019E
+t1394520180
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o
+t1395024457
+s48144
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o
+t1395024457
+s59116
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o
+t1395024457
+s67788
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o
+t1395024457
+s37328
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o
+t1395024457
+s47272
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o
+t1395024457
+s47288
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o
+t1395024457
+s210480
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o
+t1395024457
+s243104
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o
+t1395024457
+s98916
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o
+t1395024457
+s206844
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o
+t1395024457
+s4288
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking.LinkFileList
+c000000005325E33B0000000000000BCE
+t1394991931
+s3022
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o
+t1395024457
+s49708
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o
+t1395024457
+s29200
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o
+t1395024457
+s76000
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o
+t1395024457
+s73628
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o
+t1395024457
+s67948
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o
+t1395024457
+s51024
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o
+t1395024457
+s68500
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch
+t1395022599
+s120904
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch
+t1394991931
+s120808
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch
+t1395022599
+s121344
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch
+t1395024457
+s120916
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch
+t1395024457
+s121352
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch
+t1394991932
+s114288
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+t1395024457
+s1503128
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c000000005325DEDA0000000000001192
+t1394990810
+s4498
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c000000005325DEDA0000000000001CFD
+t1394990810
+s7421
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c000000005325DEDA00000000000048F0
+t1394990810
+s18672
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c000000005325DEDA000000000000291C
+t1394990810
+s10524
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c000000005325DEDA00000000000038E4
+t1394990810
+s14564
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c000000005325DEDA0000000000003019
+t1394990810
+s12313
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c000000005325DEDA0000000000001D1F
+t1394990810
+s7455
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c000000005325DEDA0000000000002520
+t1394990810
+s9504
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c000000005325DEDA000000000000141B
+t1394990810
+s5147
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c000000005325DEDA0000000000002A47
+t1394990810
+s10823
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c000000005325DEDA0000000000004621
+t1394990810
+s17953
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c000000005325DEDA00000000000068B9
+t1394990810
+s26809
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c000000005325DEDA0000000000005009
+t1394990810
+s20489
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c000000005325DEDA000000000000B7BC
+t1394990810
+s47036
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c000000005325DEDA00000000000027A4
+t1394990810
+s10148
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c000000005325DEDA0000000000005DA7
+t1394990810
+s23975
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c000000005325DEDA0000000000006DC8
+t1394990810
+s28104
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c000000005325DEDA000000000000A00A
+t1394990810
+s40970
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+c000000005325DEDA0000000000000EC1
+t1394990810
+s3777
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c000000005325DEDA000000000000190C
+t1394990810
+s6412
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+c000000005325DEDA00000000000009C9
+t1394990810
+s2505
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c000000005325DEDA0000000000000F19
+t1394990810
+s3865
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+c000000005325DEDA000000000000143A
+t1394990810
+s5178
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c000000005325DEDA0000000000001642
+t1394990810
+s5698
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+c000000005325DEDA0000000000001F95
+t1394990810
+s8085
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c000000005325DEDA0000000000001D5B
+t1394990810
+s7515
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+c000000005325DEDA0000000000001C53
+t1394990810
+s7251
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c000000005325DEDA0000000000001D77
+t1394990810
+s7543
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+c000000005325DEDA0000000000000D89
+t1394990810
+s3465
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c000000005325DEDA0000000000001EDC
+t1394990810
+s7900
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+c000000005325DEDA00000000000009BC
+t1394990810
+s2492
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c000000005325DEDA0000000000000EFC
+t1394990810
+s3836
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+c000000005325DEDA0000000000001734
+t1394990810
+s5940
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c000000005325DEDA0000000000001927
+t1394990810
+s6439
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-dummy.m
+c00000000532661C4000000000000008A
+t1395024324
+s138
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+c00000000532661C40000000000000053
+t1395024324
+s83
+
+N/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+c00000000532661C400000000000008A3
+t1395024324
+s2211
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb1db8b1821d8b841^3d618d1821d8b841^---0#1#1#--18"Check dependencies36"037D7A9A-41BC-4BEA-8161-1B213820B48D-
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.102182
+e416717257.192555
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m294"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8a3b1ac999d6b841^823a31c999d6b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4192"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o36"CB1C3F92-7314-44CB-980C-144E2F441AD8-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.102467
+e416717257.203569
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m308"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler234b1ac999d6b841^5c1d34c999d6b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^4234"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o36"D6B12320-8B9E-40E4-B5DB-AB8C8C09DCA0-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.102785
+e416717257.220813
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m290"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1651ac999d6b841^ba8738c999d6b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^4180"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPSessionManager.o36"8E8557C7-9134-403A-A8BA-7005EC140E52-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.103106
+e416717257.180631
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m322"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb37b1ac999d6b841^8d422ec999d6b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4270"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o36"BB11F309-FE94-42A7-9D22-F43D3287B44D-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.103560
+e416717257.185750
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m306"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4a61ac999d6b841^198e2fc999d6b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^4228"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkReachabilityManager.o36"113FD0B6-C874-4440-B68F-3A653B28378B-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.104043
+e416717257.192440
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m282"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb6bc1ac999d6b841^e90b31c999d6b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^4156"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFSecurityPolicy.o36"6E51C076-581A-4F39-AB98-F35828697EAD-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.104368
+e416717257.323613
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m298"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler33de1ac999d6b841^709652c999d6b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^4204"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o36"BA2DD99E-1D7E-41F7-A16A-E4F290D5B23B-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.180877
+e416717257.424097
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m300"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler38692ec999d6b841^ef926cc999d6b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^4210"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLRequestSerialization.o36"BA18EFBA-E4AA-4224-969C-AA55E40B6E8D-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.187024
+e416717257.314800
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m302"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4cfa2fc999d6b841^319750c999d6b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^4216"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLResponseSerialization.o36"497F2FFF-9E1A-45F3-B421-3DE4A502C8B7-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.192730
+e416717257.402700
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m288"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler827431c999d6b841^ce1767c999d6b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^4174"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLSessionManager.o36"FC49FC38-0EC4-42FA-B875-679BBC95171E-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.193307
+e416717257.242067
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-dummy.m270"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd19431c999d6b841^a1f83dc999d6b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-dummy.m0000000000000000^4135"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-dummy.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o36"042D5F12-D217-4424-B085-E1C72754695E-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.204797
+e416717257.288107
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m328"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c8634c999d6b841^94c149c999d6b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^4288"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o36"68D75EED-EC07-4EC2-8DA9-1EA5BD9F6373-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.222054
+e416717257.297338
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m304"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc3f138c999d6b841^a3204cc999d6b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^4216"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIAlertView+AFNetworking.o36"7A7F7F40-1387-4934-8A18-63523D7D35FB-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.242321
+e416717257.348040
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m298"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilere6223ec999d6b841^bd1959c999d6b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^4198"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIButton+AFNetworking.o36"D57600DC-C031-4CEF-98C0-2DA52ACD0C15-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.289664
+e416717257.388491
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m304"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler57434ac999d6b841^9b7463c999d6b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^4216"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o36"D6E3A968-4DC3-492A-BF32-F0D44F6EBE91-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.299092
+e416717257.398806
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m310"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler22aa4cc999d6b841^6a1866c999d6b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^4234"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIProgressView+AFNetworking.o36"36AE5AF1-1530-409E-B6CA-1E75D9CA6C35-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.315061
+e416717257.400959
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m314"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf0c050c999d6b841^61a566c999d6b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^4246"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o36"0EAF82FA-E810-4E1F-9906-64A49B56F52A-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CCompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717257.323876
+e416717257.417378
+r1
+xCompileC
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o
+x/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/benjaminchang/Development/Rotten Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m300"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f0253c999d6b841^bed96ac999d6b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^4204"CompileC /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.d --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.dia -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIWebView+AFNetworking.o36"60A4709F-4B03-4119-BD9D-91FA3DDA646D-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CLibtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal arm64
+s416717257.425369
+e416717257.435559
+r1
+xLibtool
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+xnormal
+xarm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal arm64123"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal arm64b7f06cc999d6b841^3d826fc999d6b841^---0#0#1#--1152"Libtool /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal arm64    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -filelist /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/libPods-AFNetworking.a36"08A78E6F-6CD2-4FAD-92D9-AE585348B9E0-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416715399.194715
+e416715399.273097
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dec318792d6b841^68ea458792d6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3999"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/ProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-aoevphnplmfyrgdnceesqekfockd/Pods-AFNetworking-prefix.pch.pch36"178168A3-0215-4881-8FDF-6C60260AE692-
+bBE9D888E-B277-46AB-A956-E6542B222B26
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684731.685502
+e416684731.716494
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7897afbb1ad6b841^016db7bb1ad6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3933"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-axsxhyminirgmfflafcbwmujidhx/Pods-AFNetworking-prefix.pch.pch36"524EB451-CA09-4DD7-B263-51C78C1647E9-
+b09B00F44-5D37-4FEC-BD84-29F110EB92E7
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416715399.194502
+e416715399.280993
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4dd318792d6b841^8cf3478792d6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4010"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/ProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bllyatofhpbucqajksxtepxlszsd/Pods-AFNetworking-prefix.pch.pch36"C3FD7E50-E064-404D-A620-FC3E213812DA-
+bBE9D888E-B277-46AB-A956-E6542B222B26
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717256.990975
+e416717257.062933
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler33c0fdc899d6b841^4b1d10c999d6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4001"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bmkuauptamkqxzecybtxaacdtszv/Pods-AFNetworking-prefix.pch.pch36"D2933A46-45FB-4A69-8B9E-9A9E94272913-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416717256.990693
+e416717257.101574
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler82aefdc899d6b841^de011ac999d6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4012"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/MBProgressHUD -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cfeyynnjfsvawicyhybijfqrbgzc/Pods-AFNetworking-prefix.pch.pch36"F6C9A6EF-61EC-4016-8D73-91062E718A1E-
+bD48CD9EA-6F03-49C2-8A74-8FEFEE994CA8
+
+CProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416684731.685735
+e416684732.270858
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Rotten Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-AFNetworking-prefix.pch
+d/Users/benjaminchang/Development/Rotten Tomatoes/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch284"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler249bafbb1ad6b841^435845bc1ad6b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benjaminchang/Development/Rotten%20Tomatoes/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3922"ProcessPCH /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Rotten Tomatoes/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos/include -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/BuildHeaders/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/arm64 -I/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.d -c /Users/benjaminchang/Development/Rotten\ Tomatoes/Pods/Pods-AFNetworking-prefix.pch -o /Users/benjaminchang/Development/Rotten\ Tomatoes/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dhqusicafweyjeekzjsvylqdmdac/Pods-AFNetworking-prefix.pch.pch36"03A51788-A73E-4766-B204-6304A6ACBA9D-
+b09B00F44-5D37-4FEC-BD84-29F110EB92E7
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-amcihwvtsparplamwgzkexsgxsok_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-babpwwrtafjadjdgxcgybxsxfwte_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-bhxjodkhosyruievyhhdfuufmerd_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-bksxfunzsyclcfaenhhxkwyvrmrr_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-gblsljonvezmjgfswrgfktqgnyso_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Rotten_Tomatoes-ftssihuburzgvofsohqmwxlqvjxf/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-hkvxbageywqoltdlblocofcbowzg_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
